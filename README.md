@@ -243,3 +243,27 @@ Improve Employee's work-life balance this affects the performance rating.
 While recruiting for HR, consider the female candidates where they perform well compared to male.
 
 The development and sales department is having an overall higher performance comparing to rest of the departments. While some of the employees who gives feedback like Low & Medium from Job Satisfaction & Relationship Satisfaction feature, such employees gives Excellent performance more in number. So company should focus on them.
+
+Algorithm:
+AIM: Create a sweet spot model (Low bias, Low variance)
+
+HERE WE WILL BE EXPERIMENTING WITH THREE ALGORITHM
+
+Logistic Regression
+Support Vector Machine
+Random Forest
+Decission Tree
+Artificial Neural Network MLP classifier
+Support vector machine well perform on training data with accuracy 90% but the test score is 87%.
+Random forest very well perform in training data with 100% accuracy but in testing 97.61% after doing hyperparameter tunning testing score is decreases.
+Artifical neural network[Multilayer percepton] perform very well on training data with 99% accuracy and testing score is 91.80%.
+So we are selecting Random forest model.
+
+Recommendations to improve the employee performance
+The overall employee performance can be achieved by employee environment satisfaction. The company needs to focus more on the employee environment satisfaction.
+shuffling the manager after every 2-3 years will result in good performance of employee.
+The salary hike will give the boost to the employees to perform well.
+Promote the employee every 6th month
+Improve Employee's work-life balance this affects the performance rating.
+While recruiting for HR, consider the female candidates where they perform well compared to male.
+The development and sales department is having an overall higher performance comparing to rest of the departments. While some of the employees who gives feedback like Low & Medium from Job Satisfaction & Relationship Satisfaction feature, such employees gives Excellent performance more in number. So company should focus on them.
